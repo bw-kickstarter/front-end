@@ -1,2 +1,2 @@
 # front-end
-Team repo - Kickstarter Success
+front-end branch
